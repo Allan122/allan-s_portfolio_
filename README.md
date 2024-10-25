@@ -112,34 +112,22 @@
 #### Data Analyst Projects
 1. [Data Analyst Article](#data-analyst-article)
 2. [SQL Hotel Reservation](#sql-hotel-reservation)
-3. [Indian Agriculture](#indian-agriculture)
 
 #### Machine Learning Projects
 1. [Machine Learning Article](#machine-learning-article)
-2. [Customer Churn Prediction](#customer-churn-prediction)
-3. [World Cup 2023](#world-cup-2023)
 
 ### The Sparks Foundation
-1. [Prediction using Supervised ML](#prediction-using-supervised-ml)
-2. [Prediction using Unsupervised ML](#prediction-using-unsupervised-ml)
-3. [Exploratory Data Analysis Retail](#exploratory-data-analysis-retail)
-4. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
-5. [Exploratory Data Analysis on Sports IPL](#exploratory-data-analysis-on-sports-ipl)
-6. [Prediction using Decision Tree](#prediction-using-decision-tree)
-7. [Stock Market Prediction](#stock-market-prediction)
-8. [Timeline Analysis - Covid-19](#timeline-analysis---covid-19)
+1. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
+2. [Timeline Analysis - Covid-19](#timeline-analysis---covid-19)
+
 
 ### Prodigy Infotech
-1. [World Bank Population](#world-bank-population)
-2. [Titanic](#titanic)
-3. [Bank](#bank)
-4. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
-5. [Traffic Accident](#traffic-accident)
+1. [Titanic](#titanic)
+2. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
+
 
 ### CognoRise Infotech
 1. [Tic Tac Toe AI](#tic-tac-toe-ai)
-2. [Ping Pong AI](#ping-pong-ai)
-3. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
 
 ### Almabetter
 1. [Introduction to Computer Programming](#introduction-to-computer-programming)

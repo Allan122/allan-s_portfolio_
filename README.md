@@ -99,7 +99,6 @@
 - **Artificial Intelligence** (1 month)
 
 
-
 ### Master's Program (Expected 2026)
 - **Almabetter** 
 
@@ -107,8 +106,14 @@
 
 ## ★ Projects
 
-### Mentorness
+### Portfolio Projects
+- **SQL Portfolio Project | Data Analytics**  
+  *"Japanese Cuisine"*
+- **Data Analyst Portfolio Project | Python + SQL**  
+  *"Orders Data Analysis"*
+  
 
+### Mentorness
 #### Data Analyst Projects
 1. [Data Analyst Article](#data-analyst-article)
 2. [SQL Hotel Reservation](#sql-hotel-reservation)
@@ -120,11 +125,9 @@
 1. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
 2. [Timeline Analysis - Covid-19](#timeline-analysis---covid-19)
 
-
 ### Prodigy Infotech
 1. [Titanic](#titanic)
 2. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
-
 
 ### CognoRise Infotech
 1. [Tic Tac Toe AI](#tic-tac-toe-ai)
@@ -134,8 +137,6 @@
 2. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
 3. [Product Dissection "Case Study"](#product-dissection-case-study)
 4. [Tableau Global Terrorism Dashboard](#tableau-global-terrorism-dashboard)
-5. [Applied Statistics Interview Grind](#applied-statistics-interview-grind)
-6. [Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning](#unsupervised-ml-book-recommendation-system-capstone-end-to-end-machine-learning)
 
 ---
 
@@ -251,60 +252,8 @@ The Netflix Dashboard is a comprehensive visualization tool built using Tableau,
 ![Netflix with map label](https://github.com/Allan122/allan-s_portfolio/assets/45638226/edc296b0-1a75-4cdb-b852-1954cf2aa191)
 
 
-## Project 2: Amazon Prime Dashboard
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/TabPrimeDashboard.git"> "GitHub"</a> 🕵🏻.</p>
-
-The Amazon Prime Dashboard is a dynamic analytics platform built to provide actionable insights into Amazon Prime's content ecosystem and user engagement metrics. Leveraging interactive visualizations and advanced analytics, this dashboard offers a comprehensive overview of Amazon Prime's content library and user behavior, enabling stakeholders to make informed decisions and optimize the platform's performance.
-
-**Key Points:**
-1. **Content Analysis:** Visualize the distribution of content across genres, release years, and languages to understand the composition and diversity of Amazon Prime's content library.
-  
-2. **User Engagement Metrics:** Track key user engagement metrics such as viewing time, binge-watching behavior, and user ratings to gauge the popularity and appeal of different shows and movies.
-  
-3. **Geographical Analysis:** Explore regional variations in content preferences, popularity, and user behavior to tailor content offerings and marketing strategies for different markets.
-  
-4. **Trend Analysis:** Identify trends and patterns in user behavior, content consumption, and platform performance over time to anticipate future trends and adapt business strategies accordingly.
-  
-5. **Recommendation System Evaluation:** Assess the effectiveness of Amazon Prime's recommendation algorithms by analyzing user interactions, preferences, and feedback to enhance personalization and content discovery.
-  
-6. **Performance Metrics:** Track key performance indicators such as subscriber growth, revenue trends, and churn rates to evaluate the overall health and performance of the Amazon Prime platform.
-  
-7. **Competitive Analysis:** Compare Amazon Prime's performance and content offerings with competitors in the streaming industry to identify strengths, weaknesses, and opportunities for differentiation and growth.
-
-
-## Overview of my Dashboard:
-![Amazon Prime Dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/c2d871d6-bdc8-4e59-8333-19a645a1fb7c)
-
-
-
-## Project 3: Covid 19
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/TabCovid19.git"> "GitHub"</a> 🕵🏻.</p>
-
-The COVID-19 Vaccination Status Dashboard is a powerful analytical tool designed to provide real-time insights into the distribution of COVID-19 vaccinations across populations worldwide. Leveraging interactive visualizations and advanced data analytics, this dashboard offers a comprehensive overview of vaccination rates, population coverage, and the impact of socioeconomic factors on vaccination efforts. By integrating real-time data on partially vaccinated, fully vaccinated, and unvaccinated populations with indicators such as GDP per capita and vaccination rates per hundred, this dashboard enables stakeholders to identify vaccination disparities, target vulnerable populations, and optimize resource allocation for effective pandemic response.
-
-**Key Points:**
-1. **Vaccination Status:** Visualize the distribution of COVID-19 vaccinations across populations, including the percentage of people partially vaccinated, fully vaccinated, and not vaccinated, at global, regional, and local levels.
-  
-2. **Population Coverage:** Analyze vaccination coverage rates and trends to assess the progress towards achieving herd immunity and prioritize vaccination efforts in underserved communities.
-  
-3. **Socioeconomic Impact:** Explore the relationship between vaccination rates and socioeconomic factors such as GDP per capita to understand the influence of economic disparities on vaccination access and uptake.
-  
-4. **Geographical Analysis:** Utilize interactive maps to visualize vaccination rates per hundred population and identify regions with high and low vaccination coverage, facilitating targeted intervention strategies and resource allocation.
-  
-5. **Policy Evaluation:** Evaluate the effectiveness of vaccination policies, campaigns, and outreach efforts by analyzing their impact on vaccination rates and population coverage over time.
-  
-6. **Vaccination Disparities:** Identify demographic groups, geographic regions, and socioeconomic strata with low vaccination coverage or disparities in access to vaccines, informing equity-focused interventions and outreach programs.
-  
-7. **Forecasting and Predictive Analytics:** Utilize predictive modeling and forecasting techniques to anticipate future vaccination trends, identify potential barriers to vaccination uptake, and inform proactive strategies for achieving vaccination goals.
-
-
-## Overview of my Dashboard:
-![Covid-19 Dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/08d4589f-8e50-4672-a95b-ef411ec71f0f)
-
-
-
 #### Timeline Analysis - Covid-19
-## Project 4: Covid-19 in India Dashboard
+## Project 2: Covid-19 in India Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/TabCovid19India.git"> "GitHub"</a> 🕵🏻.</p>
 
 <p>You can go through my  video presentation on <a href="https://www.youtube.com/watch?v=JtnkCSYuLhc
@@ -333,31 +282,6 @@ The COVID-19 India Dashboard provides a comprehensive and real-time overview of 
 ![Covid-19 India Statewise Dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/97b17d27-758e-4118-b3fd-f824fa901be3)
 
 
-
-## Project 5: Housing Sales interactive Dashboard
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/TabHouseSalesData.git"> "GitHub"</a> 🕵🏻.</p>
-
-The Housing Sales Interactive Dashboard is a powerful tool designed to provide real-time insights into the housing market, offering comprehensive visualizations and analytics to aid stakeholders in understanding trends and making informed decisions. Leveraging interactive features, this dashboard presents key metrics such as daily average sales price, distribution of house prices, geographic distribution of sales, property views vs. condition heatmap, and distributions of bedrooms and bathrooms. By incorporating real-time data and interactive elements, this dashboard enables users to explore housing market dynamics, identify opportunities, and optimize pricing and marketing strategies.
-
-**Key Points:**
-1. **Calendar Real-Time Insights:** Access real-time insights and trends in housing sales and market activity through an interactive calendar view, allowing users to track daily, weekly, and monthly trends in sales volume and pricing.
-  
-2. **Daily Average Sales Price:** Visualize the daily average sales price of properties to identify pricing trends and fluctuations over time, enabling stakeholders to adjust pricing strategies and assess market competitiveness.
-  
-3. **Distribution of House Prices:** Analyze the distribution of house prices using histograms or box plots to understand the range, median, and variability of property prices, facilitating pricing decisions and market positioning.
-  
-4. **Map Visualization:** Utilize interactive maps to visualize the geographic distribution of housing sales, allowing users to identify high-demand areas, hotspots, and regional variations in property prices and sales volume.
-  
-5. **View vs. Condition Heatmap:** Explore the relationship between property views and condition using a heatmap visualization, identifying correlations between property condition, listing views, and sales success to inform listing optimization and property marketing strategies.
-  
-6. **Distribution of Bedrooms:** Analyze the distribution of bedrooms in housing listings to understand buyer preferences and market demand for different property sizes and configurations, guiding property development and investment decisions.
-  
-7. **Distribution of Bathrooms:** Visualize the distribution of bathrooms in housing listings to assess the prevalence of different bathroom configurations and amenities, identifying trends and preferences among buyers and guiding property marketing and renovation efforts.
-
-## Overview of my Dashboard
-![Housing dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/974eb518-2f82-4d9e-8a7d-a58bdf6f5740)
-
-
 ##### Tableau Global Terrorism Dashboard
 ## Project 6: Global Terrorism Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://drive.google.com/drive/folders/1-p0oWMQa1Fc8gaVWOHJmcjpv8iPOxSfW"> "Google drive"</a> 🕵🏻.</p>
@@ -365,15 +289,6 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 The global terrorism Tableau dashboard provides a comprehensive overview of terrorism incidents worldwide. It includes interactive visualizations such as maps, charts, and graphs that showcase trends, patterns, and hotspots of terrorist activities. Users can filter the data by various parameters such as time, location, type of attack, casualties, and more. The dashboard also supports drill-down capabilities, allowing users to delve deeper into specific regions or incidents for detailed analysis. Overall, the dashboard aims to facilitate data-driven insights and decision-making regarding global terrorism threats.
 
 ![Dashboard 2 (1)](https://github.com/Allan122/Mentorness/assets/45638226/3a6270ca-7115-487a-a552-688740af4798)
-
-
-##### Indian Agriculture
-## Project 7: Indian Agricultural Analysis
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Indian-Agriculture-Analysis.git"> "GitHub"</a> 🕵🏻.</p>
-
-The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview of agricultural trends and metrics in India. It includes interactive visualizations such as charts and graphs with real time analysis.
-
-![Indian Agriculture Analysis Dashboard](https://github.com/Allan122/Mentorness/assets/45638226/468d2f31-f127-4ba2-b162-1ee036f54716)
 
 ---
 
@@ -398,183 +313,8 @@ In this project, we analyze the Global Terrorism Database (GTD) to uncover patte
 
 ![Global Terrorism](https://github.com/Allan122/Mentorness/assets/45638226/e7cba1a6-e6f1-4f54-a66e-88e8e9ca7954)
 
-##### Customer Churn Prediction
-## Project 3: Customer Churn Prediction
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/CustomerChurnPrediction.git"> "GitHub"</a> 🕵🏻.</p>
-
-**Customer Churn Prediction**
-
-In this project, we analyze the Customer Churn Prediction. Through the analysis of historical data and the application of advanced machine learning algorithms, business can identity patterns and indicators that signal potential churn, enabling them to take actions. Customer Churn Prediction is a vital step of maintaining business sustainability and growth in today's competitive landscape. By accurately forecasting which customers are likely to churn, businesses can proactively implement retention strategies, thereby reducing churn rates and preserving revenue streams.
-
-![Customer Churn](https://github.com/Allan122/Mentorness/assets/45638226/5f8339c7-14bd-4715-a990-7cf08e7f31e2)
-
-##### World Cup 2023
-## Project 4:  World Cup 2023 Analysis
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Mentorness.git"> "GitHub"</a> 🕵🏻.</p>
-
-**World Cup 2023**
-
-This project aims to offer valuable insights into the dynamics of the 2023 Cricket World Cup. By dissecting the tournament's data from various angles, we strive to uncover hidden patterns, illuminate standout performances, and provide a deeper understanding of the cricketing spectacle that captivated audiences around the globe. Join us as we unravel the stories etched on the pitch and celebrate the spirit of cricket showcased in the 2023 Cricket World Cup.
-
-![World Cup 2023](https://github.com/Allan122/Mentorness/assets/45638226/8640d8be-7172-4af6-9d78-0950ce6d7b8f)
-
-
-
-##### Prediction using Supervised ML
-## Project 5: Prediction-using-Supervised-ML
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
-
-**Project Overview**
-
-The "Prediction using Supervised ML" project is designed to leverage supervised machine learning techniques to predict outcomes based on labeled data. This project demonstrates the application of various supervised learning algorithms, data preprocessing techniques, model evaluation, and performance optimization.
-
-### Key Highlights
-
-- **Objective**: Utilize supervised machine learning techniques to predict outcomes from labeled data.
-- **Techniques**: Implemented algorithms such as Linear Regression, Decision Trees, and Support Vector Machines.
-- **Data Preprocessing**: Included data cleaning, normalization, and feature engineering.
-- **Model Evaluation**: Assessed model performance using metrics like accuracy, precision, recall, and F1-score.
-- **Performance Optimization**: Applied techniques such as hyperparameter tuning and cross-validation to enhance model accuracy.
-- **Tools Used**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/4f4f1bfc-77c1-4541-8618-5eb6c48b83c6)
-
-
-##### Prediction using Unsupervised ML
-## Project 6: Prediction using Unsupervised ML
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Unsupervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
-
-In this project, I applied unsupervised machine learning techniques to uncover patterns and segment data into meaningful clusters. The key methods used include K-Means clustering, hierarchical clustering, and Principal Component Analysis (PCA). These techniques helped identify natural groupings within the data, providing valuable insights without prior labels.
-
-#### Key Highlights:
-- **Objective**: Discover and interpret hidden patterns in the data.
-- **Techniques**: K-Means clustering, hierarchical clustering, PCA.
-- **Tools Used**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn.
-- **Outcome**: Successful identification and visualization of data clusters for enhanced data understanding.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/e10b212d-4038-453e-83e0-2667f7f93695)
-
-
-##### Exploratory Data Analysis Retail
-## Project 7: Exploratory Data Analysis Retail
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Exploratory-Data-Analysis-Retail.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Exploratory Data Analysis - Retail
-
-In this project, I conducted an exploratory data analysis (EDA) on a retail dataset to uncover insights and trends. The analysis involved data cleaning, visualization, and statistical analysis to understand sales patterns, customer behavior, and product performance. Key findings highlighted seasonal sales trends, customer demographics, and best-selling products. The insights gained from this EDA can help inform business strategies and decision-making.
-
-#### Key Highlights:
-- **Objective**: Uncover trends and patterns in retail data.
-- **Techniques**: Data cleaning, visualization, statistical analysis.
-- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn.
-- **Outcome**: Valuable insights into sales trends, customer behavior, and product performance.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ea7058bf-3b6b-4392-8237-cd7c6f122d35)
-
-
-##### Exploratory Data Analysis on Sports IPL
-## Project 8: Exploratory Data Analysis on Sports IPL
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/SparksEDASports.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Exploratory Data Analysis on Sports IPL
-
-In this project, I performed an exploratory data analysis (EDA) on the Indian Premier League (IPL) dataset to uncover insights and trends. The analysis involved data cleaning, visualization, and statistical techniques to understand player performance, team statistics, and match outcomes. Key findings included identifying top-performing players, team strengths and weaknesses, and winning patterns. These insights can help in making informed decisions for team selection and strategy.
-
-#### Key Highlights:
-- **Objective**: Analyze IPL data to uncover performance trends and match outcomes.
-- **Techniques**: Data cleaning, visualization, statistical analysis.
-- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn.
-- **Outcome**: Insights into player performance, team statistics, and winning patterns.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/e20a4689-ae7a-4a4a-8bbc-9ae38910ee7f)
-
-
-##### Prediction using Decision Tree
-## Project 9: Prediction using Decision Tree
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Decision-Tree.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Prediction using Decision Tree
-In this project, I utilized a decision tree algorithm for predictive modeling. Decision trees are powerful tools for classification and regression tasks. The main objective was to build a decision tree model that predicts outcomes based on input features.
-
-#### Key Highlights:
-- **Objective**: Implement a decision tree algorithm for prediction.
-- **Techniques**: Data preprocessing, model training, evaluation, and visualization.
-- **Tools Used**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn.
-- **Outcome**: Successful creation of a decision tree model for accurate predictions.
-
-  ![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/60c9f69c-0149-4e71-ab4d-d8f82a3f83b1)
- 
-
-##### Stock Market Prediction
-## Project 10: Stock Market Prediction
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Stock-Market-Prediction.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Stock Market Prediction
-
-This project focuses on using machine learning to predict stock market trends and prices. The main goal is to develop models that can forecast future stock prices based on historical data and market indicators.
-
-#### Key Highlights:
-- **Objective**: Predict stock market trends and prices using machine learning techniques.
-- **Techniques**: Data preprocessing, feature engineering, model training (Linear Regression, Support Vector Machines, etc.), and evaluation.
-- **Tools Used**: Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras (for deep learning models).
-- **Outcome**: Accurate predictions of stock market trends to assist investors and traders in decision-making.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/38a11692-b7c3-42ce-b050-5a8b6893148a)
-
-
-##### World Bank Population
-## Project 11: World Bank Population
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_01.git"> "GitHub"</a> 🕵🏻.</p>
-
-### World Bank Population
-
-This project focuses on analyzing population data from the World Bank to understand global demographic trends. The main goal is to perform data analysis and visualization to uncover insights into population growth, distribution, and demographics across different countries and regions.
-
-#### Key Highlights:
-- **Objective**: Analyze World Bank population data to identify global demographic trends.
-- **Techniques**: Data preprocessing, visualization, statistical analysis.
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
-- **Outcome**: Insights into population growth, demographics, and distribution worldwide.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b9974340-ff01-44d5-93b0-10f861e92c76)
-
-
-##### Titanic
-## Project 12: Titanic
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_02.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Titanic Dataset Analysis
-
-This project involves analyzing the Titanic dataset, which contains passenger information from the Titanic ship. The main objective is to perform exploratory data analysis (EDA) to uncover insights into the factors that affected survival rates during the Titanic disaster.
-
-#### Key Highlights:
-- **Objective**: Analyze the Titanic dataset to understand factors influencing survival rates.
-- **Techniques**: Data cleaning, EDA, visualization.
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
-- **Outcome**: Insights into survival patterns based on passenger attributes such as age, gender, class, and embarkation point.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/8f1cbdbd-618b-49cc-a171-83ebb32332b6)
-
-
-##### Bank
-## Project 13: Bank
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_03.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Bank Dataset Analysis
-
-This project involves analyzing a dataset related to banking transactions or customer information from a bank. The main objective is to perform data analysis and extract meaningful insights to improve banking services, detect fraud, or understand customer behavior.
-
-#### Key Highlights:
-- **Objective**: Analyze bank dataset to improve services, detect fraud, or understand customer behavior.
-- **Techniques**: Data preprocessing, analysis, visualization.
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
-- **Outcome**: Insights into banking trends, customer preferences, fraud detection, or service improvement opportunities.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/526b847f-fdc0-4187-bec2-06455cb0a289)
-
-
 ##### Twitter Sentiment Analysis
-## Project 14: Twitter Sentiment Analysis
+## Project 3: Twitter Sentiment Analysis
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_04.git"> "GitHub"</a> 🕵🏻.</p>
 
 ### Twitter Sentiment Analysis
@@ -589,26 +329,8 @@ This project focuses on analyzing sentiments expressed in tweets from Twitter. T
 
 ![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/8478434b-3af2-41b4-ba7a-70f817299cb2)
 
-
-##### Traffic Accident
-## Project 15: Traffic Accident
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_05.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Traffic Accident Analysis
-
-This project involves analyzing data related to traffic accidents, including factors such as location, weather conditions, vehicle types, and severity of accidents. The main goal is to extract insights that can help improve road safety measures and reduce the frequency and severity of accidents.
-
-#### Key Highlights:
-- **Objective**: Analyze traffic accident data to identify patterns, trends, and factors contributing to accidents.
-- **Techniques**: Data preprocessing, analysis, visualization, statistical modeling.
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
-- **Outcome**: Insights into common causes of accidents, high-risk areas, and recommendations for improving road safety measures.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ec943561-2a26-4452-933a-6979bc5e9219)
-
-
 ##### Tic Tac Toe AI
-## Project 16: Tic Tac Toe AI
+## Project 4: Tic Tac Toe AI
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Tic-Tac-Toe-AI.git"> "GitHub"</a> 🕵🏻.</p>
 
 ### Tic Tac Toe AI Game
@@ -622,32 +344,6 @@ This project involves creating a Tic Tac Toe game in Python with an AI opponent.
 - **Outcome**: A functional Tic Tac Toe game where players can compete against an AI that makes smart moves to ensure a challenging and engaging gameplay experience.
 
 ![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/c8caac0c-2d11-479c-8edf-6b111c17ebd0)
-
-
-##### Ping Pong AI
-## Project 17: Ping Pong AI
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Ping-Pong-AI.git"> "GitHub"</a> 🕵🏻.</p>
-
-### Ping Pong AI Game
-
-This project involves creating a Ping Pong game in Python with an AI opponent. The main goal is to develop an algorithm that enables the computer-controlled paddle to play competitively against the player or another AI, making strategic moves to keep the game engaging and challenging.
-
-#### Key Highlights:
-- **Objective**: Develop a Ping Pong game with an AI opponent for single or multiplayer gameplay.
-- **Techniques**: Game physics implementation, AI algorithm (simple rules-based or machine learning-based), user interface (optional).
-- **Tools Used**: Python, Pygame (for graphics and game development), AI algorithm (rules-based or machine learning), physics engine (optional).
-- **Outcome**: A functional Ping Pong game where players can compete against an AI opponent, providing an entertaining and interactive gaming experience.
-
-![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/7ef7d0af-0a7d-4e91-af2b-33f33b60f7e5)
-
-
-##### Applied Statistics Interview Grind
-## Project 18: Applied Statistics Interview Grind
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
-
-##### Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
-## Project 19: Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ---
 

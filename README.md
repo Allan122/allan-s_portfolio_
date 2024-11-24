@@ -106,33 +106,37 @@
 
 ## ★ Projects
 
-### Portfolio Projects
-- **SQL Portfolio Project | Data Analytics**  
-  *"Japanese Cuisine"*
-- **Data Analyst Portfolio Project | Python + SQL**  
-  *"Orders Data Analysis"*
-  
+# Portfolio Projects  
+
+- [SQL Portfolio Project | Data Analytics: Japanese Cuisine](#sql-portfolio-project--data-analytics-japanese-cuisine)  
+- [Data Analyst Portfolio Project | Python + SQL: Orders Data Analysis](#data-analyst-portfolio-project--python--sql-orders-data-analysis)  
 
 ### Mentorness
 #### Data Analyst Projects
+
 1. [Data Analyst Article](#data-analyst-article)
 2. [SQL Hotel Reservation](#sql-hotel-reservation)
 
 #### Machine Learning Projects
+
 1. [Machine Learning Article](#machine-learning-article)
 
 ### The Sparks Foundation
+
 1. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
 2. [Timeline Analysis - Covid-19](#timeline-analysis---covid-19)
 
 ### Prodigy Infotech
+
 1. [Titanic](#titanic)
 2. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
 
 ### CognoRise Infotech
+
 1. [Tic Tac Toe AI](#tic-tac-toe-ai)
 
 ### Almabetter
+
 1. [Introduction to Computer Programming](#introduction-to-computer-programming)
 2. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
 3. [Product Dissection "Case Study"](#product-dissection-case-study)
@@ -211,6 +215,21 @@
 
 
 ---
+
+## Projects
+
+# Portfolio Projects
+
+## SQL Portfolio Project | Data Analytics: Japanese Cuisine
+- **Description**: Analysis of Japanese cuisine data to extract insights, trends, and patterns.  
+- [View Project Repository](#)  
+
+---
+
+## Data Analyst Portfolio Project | Python + SQL: Orders Data Analysis
+- **Description**: Comprehensive analysis of order data using Python and SQL.  
+- [View Project Repository](#)  
+
 
 ##### Data Analyst Article
 # Articles

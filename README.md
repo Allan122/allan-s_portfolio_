@@ -108,8 +108,8 @@
 
 ## Portfolio Projects  
 
-1. [SQL Portfolio Project|Data Analytics: Japanese Cuisine](#sql-portfolio-project--data-analytics-japanese-cuisine)  
-2. [Data Analyst Portfolio Project|Python + SQL: Orders Data Analysis](#data-analyst-portfolio-project--python--sql-orders-data-analysis)  
+1. [SQL Portfolio Project-Data Analytics: Japanese Cuisine](#sql-portfolio-project--data-analytics-japanese-cuisine)  
+2. [Data Analyst Portfolio Project-Python + SQL: Orders Data Analysis](#data-analyst-portfolio-project--python--sql-orders-data-analysis)  
 
 ---
 

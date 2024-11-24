@@ -111,8 +111,9 @@
 - [SQL Portfolio Project | Data Analytics: Japanese Cuisine](#sql-portfolio-project--data-analytics-japanese-cuisine)  
 - [Data Analyst Portfolio Project | Python + SQL: Orders Data Analysis](#data-analyst-portfolio-project--python--sql-orders-data-analysis)  
 
-## Internship Projects
+---
 
+## Internship Projects
 ### Mentorness
 #### Data Analyst Projects
 
@@ -237,7 +238,6 @@
 ---
 
 # Internship Projects
-
 ##### Data Analyst Article
 # Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right

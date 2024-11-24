@@ -232,6 +232,7 @@
 - **Description**: Comprehensive analysis of order data using Python and SQL.
 - For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/DA-Portfolio-Order_DA.git"> "GitHub"</a> 🕵🏻.</p>
 
+---
 
 ##### Data Analyst Article
 # Articles

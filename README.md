@@ -114,7 +114,7 @@
 ---
 
 ## Internship Projects
-### - Mentorness
+- ### Mentorness
 #### Data Analyst Projects
 
 1. [Data Analyst Article](#data-analyst-article)
@@ -124,21 +124,21 @@
 
 1. [Machine Learning Article](#machine-learning-article)
 
-### - The Sparks Foundation
+- ### The Sparks Foundation
 
 1. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
 2. [Timeline Analysis - Covid-19](#timeline-analysis---covid-19)
 
-### - Prodigy Infotech
+- ### Prodigy Infotech
 
 1. [Titanic](#titanic)
 2. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
 
-### - CognoRise Infotech
+- ### CognoRise Infotech
 
 1. [Tic Tac Toe AI](#tic-tac-toe-ai)
 
-### - Almabetter
+- ### Almabetter
 
 1. [Introduction to Computer Programming](#introduction-to-computer-programming)
 2. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)

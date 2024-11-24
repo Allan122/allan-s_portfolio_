@@ -120,7 +120,7 @@
 1. [Data Analyst Article](#data-analyst-article)
 2. [SQL Hotel Reservation](#sql-hotel-reservation)
 
-#### Machine Learning Projects
+#### Machine Learning Project
 
 1. [Machine Learning Article](#machine-learning-article)
 

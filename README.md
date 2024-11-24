@@ -234,6 +234,8 @@
 
 ---
 
+# Internship Projects
+
 ##### Data Analyst Article
 # Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right

@@ -221,14 +221,16 @@
 # Portfolio Projects
 
 ## SQL Portfolio Project | Data Analytics: Japanese Cuisine
-- **Description**: Analysis of Japanese cuisine data to extract insights, trends, and patterns.  
-- [View Project Repository](#)  
+![image](https://github.com/user-attachments/assets/9cb39fb9-b3d6-4209-b486-de49bf010ade)
+- **Description**: Analysis of Japanese cuisine data to extract insights, trends, and patterns.
+- For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/SQL-Japanese_Cuisine.git"> "GitHub"</a> 🕵🏻.</p>
 
 ---
 
 ## Data Analyst Portfolio Project | Python + SQL: Orders Data Analysis
-- **Description**: Comprehensive analysis of order data using Python and SQL.  
-- [View Project Repository](#)  
+![VDI-In-Retail-Industry](https://github.com/user-attachments/assets/11952b52-83b5-47aa-bce6-050e711d297a)
+- **Description**: Comprehensive analysis of order data using Python and SQL.
+- For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/DA-Portfolio-Order_DA.git"> "GitHub"</a> 🕵🏻.</p>
 
 
 ##### Data Analyst Article

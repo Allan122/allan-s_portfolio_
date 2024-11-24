@@ -249,6 +249,7 @@
 ##### Product Dissection "Case Study"
 # Casestudy
 ## Linkedin - Transforming Professional Networking
+![linkedin](https://github.com/user-attachments/assets/d7c0d691-eb14-43d4-b5e2-32c1c0930139)
 <p>For accessing the document in my portfolio. You can refer to or download my <a href="https://docs.google.com/document/d/1kkMPAKqZTsQqItZLloIfIBuhyjgBP5JkEJjB6u93s14/edit?usp=sharing"> "Document"</a> 📃.</p>
 
 <p>You can watch my presentation video on my portfolio. You can refer to or download my <a href="https://drive.google.com/file/d/1ChlHslb5HWz51t1FWDtr8XEXHoim-DIM/view?usp=sharing"> "Video"</a> 📹.</p>
@@ -305,7 +306,7 @@ The COVID-19 India Dashboard provides a comprehensive and real-time overview of 
 
 
 ##### Tableau Global Terrorism Dashboard
-## Project 6: Global Terrorism Dashboard
+## Project 3: Global Terrorism Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://drive.google.com/drive/folders/1-p0oWMQa1Fc8gaVWOHJmcjpv8iPOxSfW"> "Google drive"</a> 🕵🏻.</p>
 
 The global terrorism Tableau dashboard provides a comprehensive overview of terrorism incidents worldwide. It includes interactive visualizations such as maps, charts, and graphs that showcase trends, patterns, and hotspots of terrorist activities. Users can filter the data by various parameters such as time, location, type of attack, casualties, and more. The dashboard also supports drill-down capabilities, allowing users to delve deeper into specific regions or incidents for detailed analysis. Overall, the dashboard aims to facilitate data-driven insights and decision-making regarding global terrorism threats.
@@ -314,12 +315,12 @@ The global terrorism Tableau dashboard provides a comprehensive overview of terr
 
 ---
 
-# Python Projects using Colab/ Jupyter Notebook
+# Python Projects using Jupyter Notebook
 ##### Introduction to Computer Programming
 ## Project 1: Introduction to Computer Programming
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/CompProgram.git"> "GitHub"</a> 🕵🏻.</p>
 
-This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception han- dling. Solved 30 questions without errors covering important topics.
+This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception handling. Solved 30 questions without errors covering important topics.
 
 ![Hello World](https://github.com/Allan122/Mentorness/assets/45638226/75df6965-0b69-433a-abef-8dbd30ea0780)
 

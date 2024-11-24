@@ -77,12 +77,12 @@
 
 # Table of Contents
 
-## ★ Skills
+# ★ Skills
 [Skills](#skills)
 
 ---
 
-## ★ Experience
+# ★ Experience
 
 ### Internships
 #### Mentorness

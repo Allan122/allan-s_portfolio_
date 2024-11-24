@@ -111,6 +111,8 @@
 - [SQL Portfolio Project | Data Analytics: Japanese Cuisine](#sql-portfolio-project--data-analytics-japanese-cuisine)  
 - [Data Analyst Portfolio Project | Python + SQL: Orders Data Analysis](#data-analyst-portfolio-project--python--sql-orders-data-analysis)  
 
+# Internship Projects
+
 ### Mentorness
 #### Data Analyst Projects
 

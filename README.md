@@ -104,14 +104,14 @@
 
 ---
 
-## ★ Projects
+# ★ Projects
 
-# Portfolio Projects  
+## Portfolio Projects  
 
 - [SQL Portfolio Project | Data Analytics: Japanese Cuisine](#sql-portfolio-project--data-analytics-japanese-cuisine)  
 - [Data Analyst Portfolio Project | Python + SQL: Orders Data Analysis](#data-analyst-portfolio-project--python--sql-orders-data-analysis)  
 
-# Internship Projects
+## Internship Projects
 
 ### Mentorness
 #### Data Analyst Projects
@@ -146,7 +146,7 @@
 
 ---
 
-## ★ Professional Achievements and Recognitions
+# ★ Professional Achievements and Recognitions
 
 1. [Offer Letters](#offer-letters)
 2. [Certifications](#certifications)
@@ -154,7 +154,7 @@
 
 ---
 
-## ★ Relevant Coursework Certificates
+# ★ Relevant Coursework Certificates
 
 1. [What is Data Science (IBM)](#ibm)
 2. [Introduction to Data Science (CISCO)](#cisco-1)
@@ -167,12 +167,12 @@
 
 ---
 
-## ★ Connect with Me
+# ★ Connect with Me
 [Connect with Me](#connect-with-me)
 
 ---
 
-## ★ Conclusion
+# ★ Conclusion
 
 ---
 

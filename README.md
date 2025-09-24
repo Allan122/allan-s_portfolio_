@@ -1,48 +1,57 @@
 <html>
 <head>
     <style>
-        .center {
-            text-align: center;
-            margin-top: 50px;
+        body {
+            background-color: #f8f9fa; /* Light gray background */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            color: #24292e;
         }
-
-        .title {
-            font-size: 48px;
-            color: #333;
-            font-weight: bold;
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            border: 1px solid #d1d5da;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        .header {
+            text-align: center;
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 25px;
+            margin-bottom: 25px;
+        }
+        .header-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%; /* Makes the image circular */
+            border: 3px solid #0366d6;
             margin-bottom: 20px;
         }
-
-        .message {
-            font-size: 24px;
-            color: #555;
-            margin-bottom: 30px;
+        .title {
+            font-size: 36px;
+            color: #0366d6; /* Professional blue */
+            font-weight: 600;
+            margin: 0;
         }
-
-        .description {
-            font-size: 18px;
-            color: #777;
-            line-height: 1.6;
-        }
-
-        .portfolio-img {
-            margin-top: 50px;
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            border-radius: 10px;
+        .subtitle {
+            font-size: 20px;
+            color: #586069;
+            margin-top: 10px;
+            font-weight: 300;
         }
     </style>
 </head>
 <body>
-    <div class="center">
-        <div class="title">Data Analytics Portfolio</div>
-        <div class="message">Welcome to My Portfolio!</div>
-        <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/90a5347e-ed91-4a3e-9168-dcc9d76eadcf" alt="Portfolio Image" class="portfolio-img">
-        <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences and projects.</b></div>
-    </div>
+    <div class="container">
+        <div class="header">
+            <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/90a5347e-ed91-4a3e-9168-dcc9d76eadcf" alt="Portfolio Image" class="header-img">
+            <div class="title">Allan Cheerakunnil Alex | Data Analytics Portfolio</div>
+            <p class="subtitle">
+                A curated collection of projects and achievements demonstrating expertise in data analysis, machine learning, and data-driven problem-solving.
+            </p>
+        </div>
+        </div>
 </body>
 </html>
 
@@ -207,11 +216,8 @@
 ---
 
 ## Thank You for Visiting!
-<div class="thank-you">
-    <div class="attractive-message">
-        <p><strong>🌟 Thank you for taking the time to explore my portfolio. 🌟</strong></p>
-        <p>I am enthusiastic about potential opportunities and collaborations, and I'm excited about the prospect of contributing to impactful projects in the data analytics and data science domains. Your interest and engagement are greatly appreciated!</p>
-        <p>Please feel free to reach out for further discussions, collaborations or any inquiries. I am looking forward to connecting with you and exploring potential synergies.</p>
-        <p><strong>Best regards,<br>Allan Cheerakunnil Alex</strong></p>
-    </div>
+<div class="thank-you" style="text-align: center; padding: 20px;">
+    <p style="font-size: 1.1em;"><strong>🌟 Thank you for taking the time to explore my portfolio. 🌟</strong></p>
+    <p>I am enthusiastic about potential opportunities and collaborations. Please feel free to reach out for further discussions or any inquiries.</p>
+    <p><strong>Best regards,<br>Allan Cheerakunnil Alex</strong></p>
 </div>

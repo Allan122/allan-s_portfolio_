@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <style>
@@ -40,6 +39,7 @@
             color: #586069;
             margin-top: 10px;
             font-weight: 300;
+            line-height: 1.5;
         }
     </style>
 </head>
@@ -49,12 +49,16 @@
             <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/90a5347e-ed91-4a3e-9168-dcc9d76eadcf" alt="Portfolio Image" class="header-img">
             <div class="title">Allan Cheerakunnil Alex | Data Analytics Portfolio</div>
             <p class="subtitle">
-                A curated collection of projects and achievements demonstrating expertise in data analysis, machine learning, and data-driven problem-solving.
+                Showcasing practical experience from multiple Data Science & AI internships, supported by a strong foundation in analytics and specialized skills in Business Intelligence (Power BI) and Generative AI, with certifications from industry leaders including IBM, Stanford, and SAP.
             </p>
         </div>
         </div>
 </body>
 </html>
+
+Welcome to my professional portfolio. This page serves as a centralized hub for my credentials, including internship offer letters, industry certifications, and letters of recommendation that collectively demonstrate my dedication and capabilities in the field of data.
+
+Please feel free to navigate through the sections below to learn more about my qualifications.
 
 # Table of Contents
 
@@ -142,7 +146,7 @@
 ![Code Storm Challenge](https://github.com/user-attachments/assets/fc5caad4-676b-4c36-bcc0-aad161fa32e2)
 ![EDA - Dashboard](https://github.com/user-attachments/assets/a011086f-2d31-4822-ba01-5a9eca7fae07)
 ![EDA](https://github.com/user-attachments/assets/6261ed8c-8ed2-4a03-904d-ce8adcf0f3ae)
-![Relational Database Casestudy](https://github.com/user-attachments/assets/a640bfc9-a68b-48b1-8f8d-2004661d05ae)
+![Relational Database Casestudy](https://github.com/user-attachments/assets/a640bfc9-a68b-481b-8f8d-2004661d05ae)
 
 
 ---

@@ -2,49 +2,54 @@
 <head>
     <style>
         body {
-            background-color: #f8f9fa; /* Light gray background */
+            /* This font setting will apply to the markdown below the header */
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-            color: #24292e;
         }
-        .container {
+        .header-container {
             max-width: 900px;
             margin: 40px auto;
-            background-color: #ffffff;
+            /* NEW: Deep blue gradient for a professional and attractive look */
+            background: linear-gradient(135deg, #1d2b4e 0%, #2a5298 100%);
             border: 1px solid #d1d5da;
-            border-radius: 8px;
-            padding: 30px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            border-radius: 10px;
+            padding: 40px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
         }
         .header {
             text-align: center;
-            border-bottom: 1px solid #e1e4e8;
+            border-bottom: 1px solid #4a6da7; /* Lighter border for dark background */
             padding-bottom: 25px;
             margin-bottom: 25px;
         }
         .header-img {
             width: 150px;
             height: 150px;
-            border-radius: 50%; /* Makes the image circular */
-            border: 3px solid #0366d6;
+            border-radius: 50%;
+            border: 4px solid #ffffff; /* NEW: White border to pop on the dark background */
             margin-bottom: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
         }
         .title {
             font-size: 36px;
-            color: #0366d6; /* Professional blue */
+            color: #ffffff; /* NEW: White text for contrast */
             font-weight: 600;
             margin: 0;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
         }
         .subtitle {
             font-size: 20px;
-            color: #586069;
-            margin-top: 10px;
+            color: #e1e4e8; /* NEW: Light gray text for subtitle */
+            margin-top: 15px;
             font-weight: 300;
-            line-height: 1.5;
+            line-height: 1.6;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="header-container">
         <div class="header">
             <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/90a5347e-ed91-4a3e-9168-dcc9d76eadcf" alt="Portfolio Image" class="header-img">
             <div class="title">Allan Cheerakunnil Alex | Data Analytics Portfolio</div>
@@ -52,13 +57,11 @@
                 Showcasing practical experience from multiple Data Science & AI internships, supported by a strong foundation in analytics and specialized skills in Business Intelligence (Power BI) and Generative AI, with certifications from industry leaders including IBM, Stanford, and SAP.
             </p>
         </div>
-        </div>
+    </div>
 </body>
 </html>
 
-Welcome to my professional portfolio. This page serves as a centralized hub for my credentials, including internship offer letters, industry certifications, and letters of recommendation that collectively demonstrate my dedication and capabilities in the field of data.
-
-Please feel free to navigate through the sections below to learn more about my qualifications.
+This portfolio is a curated collection of my professional achievements and qualifications in the data domain. It provides tangible proof of my skills through internship commendations, industry-recognized certifications in key areas like Business Intelligence and AI, and letters of recommendation from my mentors. Each section is designed to offer insight into my capabilities and readiness to contribute to a data-driven team.
 
 # Table of Contents
 

@@ -8,7 +8,6 @@
         .header-container {
             max-width: 900px;
             margin: 40px auto;
-            /* NEW: Deep blue gradient for a professional and attractive look */
             background: linear-gradient(135deg, #1d2b4e 0%, #2a5298 100%);
             border: 1px solid #d1d5da;
             border-radius: 10px;
@@ -22,23 +21,24 @@
             margin-bottom: 25px;
         }
         .header-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 4px solid #ffffff; /* NEW: White border to pop on the dark background */
+            width: 150px; /* Adjust size as needed */
+            height: 150px; /* Adjust size as needed */
+            border-radius: 50%; /* Makes the image circular */
+            border: 4px solid #ffffff; /* White border to pop on the dark background */
             margin-bottom: 20px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            object-fit: cover; /* Ensures the image covers the area without distortion */
         }
         .title {
             font-size: 36px;
-            color: #ffffff; /* NEW: White text for contrast */
+            color: #ffffff; /* White text for contrast */
             font-weight: 600;
             margin: 0;
             text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
         }
         .subtitle {
             font-size: 20px;
-            color: #e1e4e8; /* NEW: Light gray text for subtitle */
+            color: #e1e4e8; /* Light gray text for subtitle */
             margin-top: 15px;
             font-weight: 300;
             line-height: 1.6;
@@ -49,9 +49,10 @@
     </style>
 </head>
 <body>
+
     <div class="header-container">
         <div class="header">
-            <img src="![Image](https://github.com/user-attachments/assets/cc4fe1c3-ef23-416c-89cb-44abfaf75869)" alt="Portfolio Image" class="header-img">
+            <img src="![Blazzer](https://github.com/user-attachments/assets/7e0b81cc-6410-4558-89e0-ba7ca8edac22)" alt="Your Professional Photo" class="header-img">
             <div class="title">Allan Cheerakunnil Alex | Data Analytics Portfolio</div>
             <p class="subtitle">
                 Showcasing practical experience from multiple Data Science & AI internships, supported by a strong foundation in analytics and specialized skills in Business Intelligence (Power BI) and Generative AI, with certifications from industry leaders including IBM, Stanford, and SAP.

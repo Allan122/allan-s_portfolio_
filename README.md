@@ -52,7 +52,7 @@
 
     <div class="header-container">
         <div class="header">
-            <img src="![Blazzer](https://github.com/user-attachments/assets/7e0b81cc-6410-4558-89e0-ba7ca8edac22)" alt="Your Professional Photo" class="header-img">
+            <img src="![Image](https://github.com/user-attachments/assets/0b9ea8d2-91ed-4215-80bd-8eae240e9eb1)" alt="Your Professional Photo" class="header-img">
             <div class="title">Allan Cheerakunnil Alex | Data Analytics Portfolio</div>
             <p class="subtitle">
                 Showcasing practical experience from multiple Data Science & AI internships, supported by a strong foundation in analytics and specialized skills in Business Intelligence (Power BI) and Generative AI, with certifications from industry leaders including IBM, Stanford, and SAP.
